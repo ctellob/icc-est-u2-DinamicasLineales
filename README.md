@@ -16,4 +16,14 @@ En esta seccion se implementarán las siguientes estructuras dinámicas líneale
 
 Ejercicio 1: Invertir un string utilizando pila
 
-Captura del codigo
+![Captura del código](ejercicio1.png)
+
+## Ejercicio 2: Verificar si una palabra es palíndroma usando pila
+
+Fecha: 10 de Junio de 2026
+
+# Descripcion:
+
+Utiliza una pila para invertir un texto y comprobar si se lee igual de izquierda a derecha que de derecha a izquierda. Si es así, devuelve true; en caso contrario, false.
+
+![Captura del código](ejercicio2.png)
