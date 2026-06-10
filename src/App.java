@@ -14,6 +14,14 @@ public class App {
         String texto = "COMPUTACION";
         String invertido = ejercicio1.invertString(texto);
         System.out.println(invertido);
+
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+
+        String palabra1 = "radar";
+        String palabra2 = "computacion";
+
+        System.out.println(palabra1 + " es palíndromo: " + ejercicio2.esPalindromo(palabra1));
+        System.out.println(palabra2 + " es palíndromo: " + ejercicio2.esPalindromo(palabra2));
     }
 
     private static void runStack() {
